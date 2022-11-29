@@ -1,0 +1,2 @@
+class SistemaEscola:
+    pass
